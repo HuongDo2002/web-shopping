@@ -1,0 +1,31 @@
+.wrapper {
+    min-width: 50px;
+    border-radius: 4px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    background-color: #e7e6e6;
+    padding: 9px 16px;
+    color: #333;
+    &:hover {
+        background-color: #c0c0c0
+    }
+}
+
+.btnFilter{
+    margin: 8px;
+}
+
+.large{
+    position: relative;
+    color: #ffff;
+    background-color: #000;
+    margin-left: 385px;
+    &:hover{
+        background-color: #333;
+
+    }
+}
+  
+.cart{
+    margin: 20px 12px 0 0;
+}

@@ -1,0 +1,21 @@
+.wrapper{
+    min-height: 700px;
+    padding-bottom: 150px;
+}
+
+.cart-item{
+    width: 100%;
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.cart-item-img{
+    width: 200px;
+    height: 200px;
+    margin: 0px 50px;
+}
+
+.cart-content{
+    width: 600px;
+}
