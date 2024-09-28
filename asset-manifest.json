@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/web-shopping/static/css/main.527278f2.css",
+    "main.js": "/web-shopping/static/js/main.62906f70.js",
+    "static/js/453.8e753096.chunk.js": "/web-shopping/static/js/453.8e753096.chunk.js",
+    "static/media/backgroundHeader.png": "/web-shopping/static/media/backgroundHeader.edc28846b9401658e4d0.png",
+    "static/media/bgAbout.png": "/web-shopping/static/media/bgAbout.d43f84eef70642a71324.png",
+    "static/media/pagebg2.png": "/web-shopping/static/media/pagebg2.aa2bcf90af13192fc8da.png",
+    "static/media/image.png": "/web-shopping/static/media/image.23da1359ce2b3a9aa511.png",
+    "static/media/Gucci.svg": "/web-shopping/static/media/Gucci.91608fc3de33b0b612deae9ffcf80bfd.svg",
+    "static/media/cart3.svg": "/web-shopping/static/media/cart3.1327c5090fdbbd24b4945509ac8ce7cf.svg",
+    "static/media/cart5.svg": "/web-shopping/static/media/cart5.308a8860a5e03e66da472ae0c602aa5d.svg",
+    "static/media/cart4.svg": "/web-shopping/static/media/cart4.66b14eb69666336697f021b4483b0e49.svg",
+    "static/media/Versace.svg": "/web-shopping/static/media/Versace.c7298a8ae5a1af4d475bc3743cda7ffe.svg",
+    "static/media/logo.svg": "/web-shopping/static/media/logo.9520d381e837113bf275bc190e08f000.svg",
+    "static/media/cart2.svg": "/web-shopping/static/media/cart2.473c789ed7dc611005544335aca882d1.svg",
+    "static/media/Calvin.svg": "/web-shopping/static/media/Calvin.8bedd1dc2acd2339d03b73fdbf4ef78b.svg",
+    "static/media/cart1.svg": "/web-shopping/static/media/cart1.42cf8d4ae8eeec7ed704841f9801049d.svg",
+    "static/media/Prada.svg": "/web-shopping/static/media/Prada.04df0050017078e9889e2a4c3f4e37c2.svg",
+    "static/media/Zara.svg": "/web-shopping/static/media/Zara.4d37738b0578497c617073280202763c.svg",
+    "static/media/iconGithub.svg": "/web-shopping/static/media/iconGithub.8bbb8f09b1a2192f49f044af8350c909.svg",
+    "static/media/iconInstagram.svg": "/web-shopping/static/media/iconInstagram.9b97942d29fbfd31b4ef2e55bfae4b92.svg",
+    "static/media/iconTwitter.svg": "/web-shopping/static/media/iconTwitter.2adad0a1bc66cb335e0264d60b960e9e.svg",
+    "index.html": "/web-shopping/index.html",
+    "static/media/iconFb.svg": "/web-shopping/static/media/iconFb.6b9b52e56eba37bfd57e707399c620fa.svg",
+    "main.527278f2.css.map": "/web-shopping/static/css/main.527278f2.css.map",
+    "main.62906f70.js.map": "/web-shopping/static/js/main.62906f70.js.map",
+    "453.8e753096.chunk.js.map": "/web-shopping/static/js/453.8e753096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527278f2.css",
+    "static/js/main.62906f70.js"
+  ]
+}
